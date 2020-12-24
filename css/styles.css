@@ -1,0 +1,31 @@
+
+    body{
+      background-color: #fff0f0;
+        }
+    h1{
+      color: #790c5a;
+      font-size: 80px;
+    }
+    h3{
+      color: #790c5a;
+      font-size: 50px;
+    }
+
+    ul{
+      font-size: 20px;
+    }
+    tr{
+      font-size: 20px;
+    }
+    label{
+      font-size: 20px;
+    }
+
+          hr{
+
+      border-style: none;
+      border-top-style: dotted;
+      border-color: grey;
+      border-width: 10px;
+      width: 5%;
+    }
